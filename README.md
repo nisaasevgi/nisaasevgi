@@ -1,16 +1,25 @@
-## Hi there 👋
+### Merhaba, ben Nisa! 👋
 
-<!--
-**nisaasevgi/nisaasevgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻  Ondokuz Mayıs Üniversitesi'nde Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. 
 
-Here are some ideas to get you started:
+* Mobil uygulama geliştirmeye odaklıyım ve kariyerimi iOS Geliştirme üzerine şekillendiriyorum.
+* Şu anda ağırlıklı olarak Swift ve SwiftUI ile çalışıyor, okulda aldığım derslerle algoritmik ve teknik temellerimi güçlendiriyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠 Yetkinlikler & Teknolojiler
+
+* **Mobil Geliştirme:** Swift, SwiftUI, UIKit, MVVM Mimarisi
+* **Programlama Dilleri:** Python, C, Java
+* **Geliştirme Araçları:** Xcode, Git, GitHub
+* **Teknik İlgi Alanları:** iOS Uygulama Mimarileri, Mobil UI/UX Tasarımı, Nesne Yönelimli Programlama (OOP)
+  
+### 🔭 Odak Alanları ve Çalışmalar
+
+* 📱 **iOS Geliştirme:** SwiftUI framework ile modern arayüzler tasarlıyor ve kapsamlı mobil projeler geliştiriyorum.
+* 💻 **Bilgisayar Bilimleri:** Veri yapıları ve algoritmalar üzerine derinleşerek kod verimliliğini artırmaya odaklanıyorum.
+* 🚀 **Sürekli Gelişim:** iOS ekosistemindeki güncel teknolojileri takip ediyorum.
+
+
+### 📫 İletişim
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nisanur-sevgi-a85575293/)
