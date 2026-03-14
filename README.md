@@ -1,25 +1,23 @@
-### Merhaba, ben Nisa! 👋
+### Hi, I'm Nisa!
 
-### 💻  Ondokuz Mayıs Üniversitesi'nde Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. 
+###  I am a 2nd-year Computer Engineering student at Ondokuz Mayıs University.
 
-* Mobil uygulama geliştirmeye odaklıyım ve kariyerimi iOS Geliştirme üzerine şekillendiriyorum.
-* Şu anda ağırlıklı olarak Swift ve SwiftUI ile çalışıyor, okulda aldığım derslerle algoritmik ve teknik temellerimi güçlendiriyorum.
+* I am focused on mobile app development and shaping my career around iOS Development.
+* I am currently working primarily with Swift and SwiftUI, while strengthening my algorithmic and technical foundations with my university coursework.
 
+### Skills & Technologies
 
-### 🛠 Yetkinlikler & Teknolojiler
+* **Mobile Development:** Swift, SwiftUI, UIKit, MVVM Architecture
+* **Programming Languages:** Python, C, Java
+* **Development Tools:** Xcode, Git, GitHub
+* **Technical Interests:** iOS App Architectures, Mobile UI/UX Design, Object-Oriented Programming (OOP)
 
-* **Mobil Geliştirme:** Swift, SwiftUI, UIKit, MVVM Mimarisi
-* **Programlama Dilleri:** Python, C, Java
-* **Geliştirme Araçları:** Xcode, Git, GitHub
-* **Teknik İlgi Alanları:** iOS Uygulama Mimarileri, Mobil UI/UX Tasarımı, Nesne Yönelimli Programlama (OOP)
-  
-### 🔭 Odak Alanları ve Çalışmalar
+### Focus Areas & Work
 
-* 📱 **iOS Geliştirme:** SwiftUI framework ile modern arayüzler tasarlıyor ve kapsamlı mobil projeler geliştiriyorum.
-* 💻 **Bilgisayar Bilimleri:** Veri yapıları ve algoritmalar üzerine derinleşerek kod verimliliğini artırmaya odaklanıyorum.
-* 🚀 **Sürekli Gelişim:** iOS ekosistemindeki güncel teknolojileri takip ediyorum.
+* **iOS Development:** Designing modern interfaces using the SwiftUI framework and developing comprehensive mobile projects.
+* **Computer Science:** Deepening my knowledge in data structures and algorithms, focusing on increasing code efficiency.
+* **Continuous Learning:** Following the latest technologies in the iOS ecosystem.
 
-
-### 📫 İletişim
+### Contact
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nisanur-sevgi-a85575293/)
