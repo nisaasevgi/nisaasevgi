@@ -1,6 +1,6 @@
 ### Hi, I'm Nisa!
 
-###  I am a 2nd-year Computer Engineering student at Ondokuz Mayıs University.
+###  I am a 3nd-year Computer Engineering student at Ondokuz Mayıs University.
 
 * I am focused on mobile app development and shaping my career around iOS Development.
 * I am currently working primarily with Swift and SwiftUI, while strengthening my algorithmic and technical foundations with my university coursework.
